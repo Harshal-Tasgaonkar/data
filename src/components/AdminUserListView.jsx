@@ -243,7 +243,7 @@ const AdminUserListView = () => {
               <td>
                 <div className="d-flex align-items-center">
                   <a
-                    href="javascript:;"
+                    href="#"
                     className="btn btn-sm btn-icon btn-text-secondary rounded-pill waves-effect delete-record"
                     data-bs-toggle="tooltip"
                     title="Delete Invoice"
@@ -315,7 +315,7 @@ const AdminUserListView = () => {
               <td>
                 <div className="d-flex align-items-center">
                   <a
-                    href="javascript:;"
+                    href="#"
                     className="btn btn-sm btn-icon btn-text-secondary rounded-pill waves-effect delete-record"
                     data-bs-toggle="tooltip"
                     title="Delete Invoice"

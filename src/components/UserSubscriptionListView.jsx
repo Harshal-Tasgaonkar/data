@@ -265,7 +265,7 @@ const UserSubscriptionListView = () => {
                </td>
                <td>
                <div>
-  <button type="button" class="btn btn-success text-nowrap">
+  <button type="button" className="btn btn-success text-nowrap">
     Subscribe Now
   </button>
 </div>
@@ -328,7 +328,7 @@ const UserSubscriptionListView = () => {
                </td>
                <td>
                <div>
-  <button type="button" class="btn btn-success text-nowrap">
+  <button type="button" className="btn btn-success text-nowrap">
     Subscribe Now
   </button>
 </div>
